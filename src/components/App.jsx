@@ -2,7 +2,7 @@ import { GlobalStyle } from './GlobalStyle';
 import { Layout } from './Layout/Layout';
 import { ToastContainer } from 'react-toastify';
 import 'react-toastify/dist/ReactToastify.css';
-import Products from './Products/Products';
+import Products from './Products/ProductsList';
 import ScrollToTop from 'react-scroll-to-top';
 
 export const App = () => {
